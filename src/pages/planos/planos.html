@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    
+    <ion-title>Planos</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  
+    <ion-list>
+      <ion-list-header>
+        Planos
+      </ion-list-header>
+      <a ion-item (click)="openModal({charNum: 0})">
+        Plano Bronze
+      </a>
+      <a ion-item (click)="openModal({charNum: 1})">
+        Plano Prata
+      </a>
+      <a ion-item (click)="openModal({charNum: 2})">
+        Plano ouro
+      </a>
+      <a ion-item (click)="openModal({charNum: 3})">
+        Plano Diamante
+      </a>
+    </ion-list>
+  
+  </ion-content>

@@ -1,0 +1,55 @@
+{
+    "items": [
+        {
+            "name": "Segurança Patrimonial",
+            "children": [
+                {
+                    "name": "Segurança Patrimonial",
+                    "information": "A Vigilância Patrimonial atua com na prevenção da integridade do patrimonio. Garantindo aos clientes total segurança no ambiente protegido."
+                  
+                }
+            ]
+        },
+        {
+            "name": "Escolta Armada",
+            "children": [
+                {
+                    "name": "Escolta Armada",
+                    "information": "A Vigilância Patrimonial atua com na prevenção da integridade do patrimonio. Garantindo aos clientes total segurança no ambiente protegido."
+                   
+                }
+            ]
+        },
+        {
+            "name": "Controle de Acesso",
+            "children": [
+                {
+                    "name": "Controle de Acesso",
+                    "information": " Visando a melhor proteção do patrimonio dos clientes A Perfect Segurança oferece treinamento para adequação dos seus colaboradores para atender a cada característica e padrões de cada cliente, assim, oferecendo segurança de alta performance para Portaria de prédios residenciais e comerciais, shopping Centers, escolas, faculdades e em diversos setores industriais."
+                   
+                }
+            ]
+        },
+        {
+            "name": "Minitoramento",
+            "children": [
+                {
+                    "name": "Monitoramento",
+                    "information": "Oferecemos Centro de Controle Operacional, Monitoramento de imagens por software via Smartphone, funcionamento 24 horas e 7 dias por semana."
+                   
+                }
+            ]
+        },
+        {
+            "name": "Limpeza e Conservação",
+            "children": [
+                {
+                    "name": "Limpeza e Conservação",
+                    "information": "O Zelador busca deixar sempre seu patrimônio em ordem, fazendo vistórias períodicas na dependências do condomínio / empresa, realiza pequenos reparos e orienta nas necessidades do dia a dia."
+                   
+                }
+            ]
+        }
+        
+    ]
+}

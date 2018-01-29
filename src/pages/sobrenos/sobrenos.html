@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Modals</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-list>
+    <ion-list-header>
+      Quem Somos
+    </ion-list-header>
+    <a ion-item (click)="openModal({charNum: 0})">
+      Missão
+    </a>
+    <a ion-item (click)="openModal({charNum: 1})">
+      Visão
+    </a>
+    <a ion-item (click)="openModal({charNum: 2})">
+      Valores
+    </a>
+  </ion-list>
+
+</ion-content>
