@@ -1,8 +1,8 @@
 {
-  "name": "mperfect",
+  "name": "Perfect Segurança",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "MSantana",
+  "homepage": "Perfect Segurança",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
